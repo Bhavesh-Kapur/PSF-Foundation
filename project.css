@@ -1,0 +1,31 @@
+/* Custom styles for the Projects page */
+
+/* Add padding to the top and bottom of sections */
+section {
+    padding: 50px 0;
+}
+
+/* Style for project card titles */
+.card-title {
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+}
+
+/* Style for project card descriptions */
+.card-text {
+    font-size: 0.875rem;
+    margin-bottom: 15px;
+}
+
+/* Add margin to the top of buttons */
+.card-body .btn {
+    margin-top: 10px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    /* Reduce padding for smaller screens */
+    section {
+        padding: 30px 0;
+    }
+}

@@ -1,0 +1,68 @@
+/* Custom styles for the Contact page */
+
+/* Center align text within sections */
+section h2, section p {
+    text-align: center;
+}
+
+/* Add padding to the top and bottom of sections */
+section {
+    padding: 50px 0;
+}
+
+/* Style for contact form labels */
+.form-group label {
+    font-weight: bold;
+}
+
+/* Add margin to the top of buttons */
+.form-group .btn {
+    margin-top: 10px;
+}
+
+/* Style for contact information list */
+ul.list-unstyled {
+    list-style: none;
+    padding-left: 0;
+}
+
+/* Style for contact information list items */
+ul.list-unstyled li {
+    margin-bottom: 10px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    /* Reduce padding for smaller screens */
+    section {
+        padding: 30px 0;
+    }
+}
+/* Custom styles for the Staff or Team Information section */
+#team {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+}
+
+#team h2 {
+    margin-bottom: 40px;
+}
+
+.card {
+    border: none;
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.card-title {
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+}
+
+.card-text {
+    font-size: 0.875rem;
+    margin-bottom: 5px;
+}
