@@ -1,2 +1,5 @@
 # PSF-Foundation
-Ngo website 
+Ngo Website 
+
+Contributor:
+- [Bhavesh Kapur](https://github.com/Bhavesh-Kapur)
