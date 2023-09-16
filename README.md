@@ -1,6 +1,6 @@
 # PSF-Foundation
-Ngo Website 
-Ngo Name: Pratham Shvaas Foundation
+NGO Website 
+NGO Name: Pratham Shvaas Foundation
 Director: Dr. Anamika Jindal
 
 Contributor:
